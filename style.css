@@ -4847,7 +4847,7 @@ nav ul {
   /* ABOUT ME ------------------------------------------- */
 
   #about-me {
-    height: 100%;
+    height: 100dvh;
   }
 
   .text-content {
