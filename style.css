@@ -2010,7 +2010,7 @@ nav ul {
     width: 100%;
     max-width: 430px;
     margin: 0 auto;
-    padding-top: 20px;
+
     display: flex;
     text-align: center;
     color: #3d3d3d;
@@ -2023,7 +2023,7 @@ nav ul {
 
   #author {
     width: 100%;
-    padding-right: 8px;
+    padding-right: 14px;
     margin: 8px 0 0 0;
   }
 
@@ -2439,6 +2439,7 @@ nav ul {
   #author {
     width: 100%;
     max-width: 480px;
+    padding-right: 14px;
     margin: 8px 0;
   }
 
