@@ -31,7 +31,7 @@ header {
   position: fixed;
   width: 100%;
   background-color: black;
-  padding-top: 3rem;
+  padding-top: 2rem;
   text-align: center;
   z-index: 9999;
 }
@@ -42,7 +42,7 @@ header {
 
 .logo img {
   margin-left: -1px;
-  width: 56px;
+  width: 3.5rem;
 }
 
 .text-logo {
@@ -136,6 +136,7 @@ ul {
   opacity: 1;
   pointer-events: auto;
   transform: translateY(0);
+  transform: translateX(1.875rem);
 }
 
 /* MAIN */
