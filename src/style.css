@@ -348,6 +348,7 @@ main {
 .overlay {
   position: absolute;
   inset: 0;
+  height: 98%;
 
   background: var(--overlay-color, rgba(0, 0, 0, 0.6));
 
@@ -956,6 +957,7 @@ main {
   .overlay {
     position: absolute;
     inset: 0;
+    height: 100%;
 
     background: var(--overlay-color, rgba(0, 0, 0, 0.6));
 
