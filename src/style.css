@@ -141,7 +141,7 @@ ul {
 }
 
 .icons-container .icons .icon a {
-  color: white;
+  color: white !important;
 }
 
 .icons-container .icons .icon svg {
