@@ -136,19 +136,20 @@ ul {
   color: black;
 }
 
+.icons-container.icons a {
+  color: white;
+}
+
+.icons-container .icons a:visited {
+  color: white;
+}
+
 /* Estado aberto */
 .language-selector.open .language-options {
   opacity: 1;
   pointer-events: auto;
   transform: translateY(0);
   transform: translateX(1.875rem);
-}
-.icons-container.icons a {
-  color: white;
-}
-
-a:visited {
-  color: white;
 }
 
 /* MAIN */
