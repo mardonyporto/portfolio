@@ -137,11 +137,11 @@ ul {
 }
 
 .icons-container .icons a svg {
-  color: white;
+  color: white !important;
 }
 
 .icons-container .icons a:visited {
-  color: white !important;
+  color: white;
 }
 
 /* Estado aberto */
