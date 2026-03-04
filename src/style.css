@@ -140,6 +140,10 @@ ul {
   color: white;
 }
 
+.icons-container .icons .icon a {
+  color: white;
+}
+
 .icons-container .icons .icon svg {
   color: white;
 }
