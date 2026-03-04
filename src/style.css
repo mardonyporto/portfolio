@@ -144,6 +144,10 @@ ul {
   color: white;
 }
 
+.icon {
+  color: white;
+}
+
 /* Estado aberto */
 .language-selector.open .language-options {
   opacity: 1;
