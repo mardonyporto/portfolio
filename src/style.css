@@ -132,12 +132,23 @@ ul {
   display: none;
 }
 
+.language-options a:visited {
+  color: black;
+}
+
 /* Estado aberto */
 .language-selector.open .language-options {
   opacity: 1;
   pointer-events: auto;
   transform: translateY(0);
   transform: translateX(1.875rem);
+}
+.icons-container.icons a {
+  color: white;
+}
+
+a:visited {
+  color: white;
 }
 
 /* MAIN */
@@ -147,6 +158,8 @@ main {
 }
 
 /* SECTION HOME - DEFAULT MOBILE */
+#hero {
+}
 
 #home {
   width: 100%;
